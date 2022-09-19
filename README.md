@@ -12,7 +12,7 @@ The citizen voting-age populations were also converted into decimals for float f
 # Data Dictionary
 state_name <class 'str'> Name of state
 
-cong_district <class 'str'> Number of congressional district
+cong_district <class 'str'> Congressional district number
 
 voting_age_pop <class 'numpy.float64'> Citizen voting-age population estimate
 

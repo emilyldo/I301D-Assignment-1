@@ -11,10 +11,15 @@ The citizen voting-age populations were also converted into decimals for float f
  
 # Data Dictionary
 state_name <class 'str'> Name of state
+
 cong_district <class 'str'> Number of congressional district
+
 voting_age_pop <class 'numpy.float64'> Citizen voting-age population estimate
+
 voting_rate <class 'numpy.float64'> Voting rate estimate
+
 bachelors_more_pct <class 'numpy.float64'> Bachelor's degree or more holding citizens percentage of total citizen voting-age population estimate
+
 below_poverty_pct <class 'numpy.float64'> Below povery level citizens percentage of total citizen voting-age population estimate
 
 # Analysis

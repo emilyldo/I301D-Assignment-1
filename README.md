@@ -20,7 +20,7 @@ voting_rate <class 'numpy.float64'> Voting rate estimate
 
 bachelors_more_pct <class 'numpy.float64'> Bachelor's degree or more holding citizens percentage of total citizen voting-age population estimate
 
-below_poverty_pct <class 'numpy.float64'> Below povery level citizens percentage of total citizen voting-age population estimate
+below_poverty_pct <class 'numpy.float64'> Below poverty level citizens percentage of total citizen voting-age population estimate
 
 # Analysis
 I checked the frequency distribution of the voting rate, percentages of Bachelor's degrees or more holding citizens, and percentages of below poverty level citizens per congressional district, before comparing the voting rate to the latter two respectively. By doing so, I hoped to examine the extent of importance of these two demographical attributes for the 2018 U.S. voting rate. This analysis served to reveal any possible relationships between the 2018 U.S. voting rate and educational attainment or poverty status. 
